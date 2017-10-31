@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine(" Hello I'm Nadia");
+            Console.WriteLine("j'ai fait des modifs");
             Console.WriteLine("Test de modification de version");
             Console.WriteLine("Branch Manager");
             Console.WriteLine("modifs sur la branche1");
