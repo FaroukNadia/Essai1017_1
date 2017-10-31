@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Test de modification de version");
             Console.WriteLine("Branch Manager");
             Console.WriteLine("modifs sur la branche1");
+            Console.WriteLine("une modification à 14h19");
             Console.Read();
         }
     }
