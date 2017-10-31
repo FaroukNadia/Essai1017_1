@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Branch Manager");
             Console.WriteLine("modifs sur la branche1");
             Console.WriteLine("une modification à 14h19");
+            Console.WriteLine("je viens de créer la branche branche3nadia");
             Console.Read();
         }
     }
