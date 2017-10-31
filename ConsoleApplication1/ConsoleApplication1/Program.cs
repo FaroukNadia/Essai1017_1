@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine(" Hello I'm Nadia");
             Console.WriteLine("Test de modification de version");
             Console.WriteLine("Branch Manager");
+            Console.WriteLine("modifs sur la branche1");
             Console.Read();
         }
     }
